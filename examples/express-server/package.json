@@ -1,0 +1,1 @@
+{"private":true,"type":"module","scripts":{"start":"node server.mjs"},"dependencies":{"api-handshake":"file:../..","express":"^5.1.0"}}
